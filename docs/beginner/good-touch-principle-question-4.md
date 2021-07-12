@@ -20,7 +20,6 @@ import GoodTouchPrincipleQuestion4 from '@site/image-generator/yml/beginner/good
   ]}>
 <TabItem value="question">
 
-- Green 3 needs be played on the stacks.
 - What action should Alice perform?
 
 </TabItem>
